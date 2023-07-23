@@ -28,3 +28,8 @@ packaging~=23.1
 uritemplate~=4.1.1
 legacy~=0.1.6
 Flask~=2.2.5
+gunicorn
+google_auth_oauthlib
+google-auth
+google-api-python-client
+pymongo~=4.4.1
